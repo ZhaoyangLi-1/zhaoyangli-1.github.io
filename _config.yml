@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhaoyang Li/Personal Homepage"
+title                    : "Zhaoyang Li Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoyang Li"
 description              : &description "A master student from University of California San Diego"
