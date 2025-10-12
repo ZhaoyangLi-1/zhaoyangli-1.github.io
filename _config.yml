@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhaoyang Li"
+title                    : "Zhaoyang Li/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoyang Li"
-description              : &description "Zhaoyang Li's academic portfolio"
+description              : &description "A master student from University of California San Diego"
 
 url                      : "https://zhaoyangli-1.github.io"
 baseurl                  : ""  # 用户主页必须为空
