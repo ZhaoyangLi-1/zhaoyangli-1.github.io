@@ -31,7 +31,7 @@ Publications and Preprints
   **A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.**  
   *Under Review, 2025.*
 
-- Tongzhou Mu<<sup>\*</sup>, **Zhaoyang Li**<sup>\*</sup>, Stanisław Wiktor Strzelecki<sup>\*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.  
+- Tongzhou Mu<sup>\*</sup>, **Zhaoyang Li**<sup>\*</sup>, Stanisław Wiktor Strzelecki<sup>\*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.  
   **When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?**  
   *AAAI Conference on Artificial Intelligence (AAAI) 2025.*  
   [Paper](https://arxiv.org/abs/2412.13662) · [Code](https://github.com/tongzhoumu/s2v-dagger)
