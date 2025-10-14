@@ -36,9 +36,9 @@ Publications and Preprints
   *AAAI Conference on Artificial Intelligence (AAAI) 2025.*  
   [Paper](https://arxiv.org/abs/2412.13662) · [Code](https://github.com/tongzhoumu/s2v-dagger)
 
-  - Yifei Zhang, Yusen Jiao, Jiayi Chen, **Zhaoyang Li**, Huaxiu Yao, Jieyu Zhang, Frederic Sala.  
-  **Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.**  
-  *ATTRIB Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024; extended version in submission.*  
-  [Paper](https://openreview.net/forum?id=dugoA2gfhs)
+- Yifei Zhang, Yusen Jiao, Jiayi Chen, **Zhaoyang Li**, Huaxiu Yao, Jieyu Zhang, Frederic Sala.  
+**Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.**  
+*ATTRIB Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024; extended version in submission.*  
+[Paper](https://openreview.net/forum?id=dugoA2gfhs)
 
 
