@@ -15,7 +15,7 @@ My research interests lie in robot learning and multimodal learning.
 Publications and Preprints
 ======
 
-\* Equal contribution is marked with an asterisk (*)*
+\* indicates equal contribution.
 
 <!-- ORIC -->
 <table>
