@@ -10,7 +10,9 @@ redirect_from:
 
 Hello! I am a Research Assistant at [USC](https://www.usc.edu/), fortunate to be advised by [Erdem Biyik](https://ebiyik.github.io/). Previously, I completed my Master’s in [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), where I worked with [Hao Su](https://cseweb.ucsd.edu/~haosu/) and [Pengtao Xie](https://pengtaoxie.github.io/). I also earned a double major Bachelor’s degree in [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Mathematics](https://guide.wisc.edu/undergraduate/letters-science/mathematics/mathematics-ba/mathematics-mathematics-data-science-ba/#text) from [UW–Madison](https://www.wisc.edu/), where I worked with [Vikas Singh](https://www.biostat.wisc.edu/~vsingh/).
 
-My research interests lie in robot learning and multimodal learning.
+My research interests lie in robot learning and multimodal learning. 
+
+🚀 I am currently applying for PhD programs for Fall 2026.
 
 Publications and Preprints
 ======
