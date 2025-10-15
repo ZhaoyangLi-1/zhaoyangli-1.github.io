@@ -47,7 +47,7 @@ Publications and Preprints
 <table>
 <tr>
 <td width="25%">
-  <img src="images/s2v_daggerr.png" width="160">
+  <img src="images/s2v_dagger.png" width="160">
 </td>
 <td width="75%">
   Tongzhou Mu<sup>*</sup>, <b>Zhaoyang Li<sup>*</sup></b>, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.  
