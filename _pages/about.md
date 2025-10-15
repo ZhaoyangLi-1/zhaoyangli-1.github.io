@@ -15,39 +15,68 @@ My research interests lie in robot learning and multimodal learning.
 Publications and Preprints
 ======
 
-*Equal contribution is marked with an asterisk (*)*
+\* Equal contribution is marked with an asterisk (*)*
 
----
+<!-- ORIC -->
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/ORIC.png" width="160" alt="ORIC">
+    </td>
+    <td width="75%">
+      <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Hao Su.<br>
+      <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
+      <i>International Conference on Computer Vision (ICCV) 2025 Workshop on MMRAgI</i>; extended version in submission.<br>
+      <a href="https://arxiv.org/abs/2509.15695">Paper</a> ·
+      <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
+    </td>
+  </tr>
+</table>
 
-![ORIC](images/ORIC.png | width=160)  
-**Zhaoyang Li<sup>*</sup>**, Zhan Ling<sup>*</sup>, Yuchen Zhou, Hao Su.  
-**ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.**  
-*International Conference on Computer Vision (ICCV) 2025 Workshop on MMRAgI; extended version in submission.*  
-[Paper](https://arxiv.org/abs/2509.15695) · [Code](https://github.com/ZhaoyangLi-1/ORIC)
+<!-- InteractGPT -->
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/InteractGPT.png" width="160" alt="InteractGPT">
+    </td>
+    <td width="75%">
+      <b>Zhaoyang Li</b>, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.<br>
+      <b>A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.</b><br>
+      <i>Under Review, 2025.</i>
+    </td>
+  </tr>
+</table>
 
----
+<!-- S2V-Dagger -->
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/s2v_dagger.png" width="160" alt="S2V-Dagger">
+    </td>
+    <td width="75%">
+      Tongzhou Mu<sup>*</sup>, <b>Zhaoyang Li<sup>*</sup></b>, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.<br>
+      <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
+      <i>AAAI Conference on Artificial Intelligence (AAAI) 2025.</i><br>
+      <a href="https://arxiv.org/abs/2412.13662">Paper</a> ·
+      <a href="https://github.com/tongzhoumu/s2v-dagger">Code</a>
+    </td>
+  </tr>
+</table>
 
-![InteractGPT](images/InteractGPT.png | width=160)  
-**Zhaoyang Li**, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.  
-**A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.**  
-*Under Review, 2025.*
-
----
-
-![S2V-Dagger](images/s2v_dagger.png | width=160)  
-Tongzhou Mu<sup>*</sup>, **Zhaoyang Li<sup>*</sup>**, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.  
-**When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?**  
-*AAAI Conference on Artificial Intelligence (AAAI) 2025.*  
-[Paper](https://arxiv.org/abs/2412.13662) · [Code](https://github.com/tongzhoumu/s2v-dagger)
-
----
-
-![JST](images/jst.png | width=160)  
-Yifei Zhang, Yusen Jiao, Jiayi Chen, **Zhaoyang Li**, Huaxiu Yao, Jieyu Zhang, Frederic Sala.  
-**Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.**  
-*ATTRIB Workshop at NeurIPS 2024; extended version in submission.*  
-[Paper](https://openreview.net/forum?id=dugoA2gfhs)
-
+<!-- JST -->
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/jst.png" width="160" alt="JST">
+    </td>
+    <td width="75%">
+      Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
+      <b>Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.</b><br>
+      <i>ATTRIB Workshop at NeurIPS 2024; extended version in submission.</i><br>
+      <a href="https://openreview.net/forum?id=dugoA2gfhs">Paper</a>
+    </td>
+  </tr>
+</table>
 
 
 Professional Service
