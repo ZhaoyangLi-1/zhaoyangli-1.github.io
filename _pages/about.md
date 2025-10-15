@@ -15,7 +15,7 @@ My research interests lie in robot learning and multimodal learning.
 Publications and Preprints
 ======
 
-*Equal contribution is marked with an asterisk (\*).*
+* \* indicates equal contribution.*
 
 - **Zhaoyang Li<sup>\*</sup>**, Zhan Ling<sup>\*</sup>, Yuchen Zhou, Hao Su.  
   **ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.**  
