@@ -17,13 +17,13 @@ Publications and Preprints
 
 \* indicates equal contribution.
 
-<!-- ORIC -->
-<table>
+<table border="0" width="100%" cellspacing="12" cellpadding="0">
+  <!-- ORIC -->
   <tr>
-    <td width="25%">
-      <img src="images/ORIC.png" width="160" alt="ORIC">
+    <td width="160" valign="top">
+      <img src="images/ORIC.png" width="160" alt="ORIC" loading="lazy">
     </td>
-    <td width="75%">
+    <td valign="top">
       <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Hao Su.<br>
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
       <i>International Conference on Computer Vision (ICCV) 2025 Workshop on MMRAgI</i>; extended version in submission.<br>
@@ -31,29 +31,25 @@ Publications and Preprints
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
     </td>
   </tr>
-</table>
 
-<!-- InteractGPT -->
-<table>
+  <!-- InteractGPT -->
   <tr>
-    <td width="25%">
-      <img src="images/InteractGPT.png" width="160" alt="InteractGPT">
+    <td width="160" valign="top">
+      <img src="images/InteractGPT.png" width="160" alt="InteractGPT" loading="lazy">
     </td>
-    <td width="75%">
+    <td valign="top">
       <b>Zhaoyang Li</b>, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.<br>
       <b>A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.</b><br>
       <i>Under Review, 2025.</i>
     </td>
   </tr>
-</table>
 
-<!-- S2V-Dagger -->
-<table>
+  <!-- S2V-Dagger -->
   <tr>
-    <td width="25%">
-      <img src="images/s2v_dagger.png" width="160" alt="S2V-Dagger">
+    <td width="160" valign="top">
+      <img src="images/s2v_dagger.png" width="160" alt="S2V-Dagger" loading="lazy">
     </td>
-    <td width="75%">
+    <td valign="top">
       Tongzhou Mu<sup>*</sup>, <b>Zhaoyang Li<sup>*</sup></b>, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.<br>
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
       <i>AAAI Conference on Artificial Intelligence (AAAI) 2025.</i><br>
@@ -61,15 +57,13 @@ Publications and Preprints
       <a href="https://github.com/tongzhoumu/s2v-dagger">Code</a>
     </td>
   </tr>
-</table>
 
-<!-- JST -->
-<table>
+  <!-- JST -->
   <tr>
-    <td width="25%">
-      <img src="images/jst.png" width="160" alt="JST">
+    <td width="160" valign="top">
+      <img src="images/jst.png" width="160" alt="JST" loading="lazy">
     </td>
-    <td width="75%">
+    <td valign="top">
       Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
       <b>Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.</b><br>
       <i>ATTRIB Workshop at NeurIPS 2024; extended version in submission.</i><br>
