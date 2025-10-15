@@ -22,7 +22,7 @@ Publications and Preprints
 
 *Equal contribution is marked with an asterisk (\*).*
 
-- **Zhaoyang Li⁎**, Zhan Ling⁎, Yuchen Zhou, Hao Su.  
+- **Zhaoyang Li<sup>\*</sup>**, Zhan Ling<sup>\*</sup>, Yuchen Zhou, Hao Su.  
   **ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.**  
   *International Conference on Computer Vision (ICCV) 2025 Workshop on MMRAgI*; extended version in submission.  
   [Paper](https://arxiv.org/abs/2509.15695) · [Code](https://github.com/ZhaoyangLi-1/ORIC)
@@ -31,7 +31,7 @@ Publications and Preprints
   **A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.**  
   *Under Review, 2025.*
 
-- Tongzhou Mu⁎, **Zhaoyang Li⁎**, Stanisław Wiktor Strzelecki<sup>\*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.  
+- Tongzhou Mu<sup>\*</sup>, **Zhaoyang Li<sup>\*</sup>**, Stanisław Wiktor Strzelecki<sup>\*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.  
   **When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?**  
   *AAAI Conference on Artificial Intelligence (AAAI) 2025.*  
   [Paper](https://arxiv.org/abs/2412.13662) · [Code](https://github.com/tongzhoumu/s2v-dagger)
