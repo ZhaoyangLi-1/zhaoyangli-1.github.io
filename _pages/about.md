@@ -21,7 +21,7 @@ Publications and Preprints
   <!-- ORIC -->
   <tr>
     <td width="300" valign="top">
-      <img src="images/ORIC.png" width="160" alt="ORIC" loading="lazy">
+      <img src="images/ORIC.png" width="300" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Hao Su.<br>
@@ -35,7 +35,7 @@ Publications and Preprints
   <!-- InteractGPT -->
   <tr>
     <td width="300" valign="top">
-      <img src="images/InteractGPT.png" width="160" alt="InteractGPT" loading="lazy">
+      <img src="images/InteractGPT.png" width="300" alt="InteractGPT" loading="lazy">
     </td>
     <td valign="top">
       <b>Zhaoyang Li</b>, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.<br>
@@ -47,7 +47,7 @@ Publications and Preprints
   <!-- S2V-Dagger -->
   <tr>
     <td width="300" valign="top">
-      <img src="images/s2v_dagger.png" width="160" alt="S2V-Dagger" loading="lazy">
+      <img src="images/s2v_dagger.png" width="300" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       Tongzhou Mu<sup>*</sup>, <b>Zhaoyang Li<sup>*</sup></b>, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.<br>
@@ -61,7 +61,7 @@ Publications and Preprints
   <!-- JST -->
   <tr>
     <td width="300" valign="top">
-      <img src="images/jst.png" width="160" alt="JST" loading="lazy">
+      <img src="images/jst.png" width="300" alt="JST" loading="lazy">
     </td>
     <td valign="top">
       Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
