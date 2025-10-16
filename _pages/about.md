@@ -77,7 +77,7 @@ Publications and Preprints
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
       <i>AAAI Conference on Artificial Intelligence (AAAI) 2025.</i><br>
       <a href="https://arxiv.org/abs/2412.13662">Paper</a> ·
-      <a href="https://github.com/tongzhoumu/s2v-dagger">Code</a>
+      <a href="https://github.com/ZhaoyangLi-1/s2v-dagger">Code</a>
     </td>
   </tr>
 
