@@ -12,7 +12,7 @@ Hello! I am a Research Assistant at [USC](https://www.usc.edu/), fortunate to be
 
 My research is about building embodied agents that can see, decide, and act in the real world. I work at the intersection of multimodal learning such as vision language models and robot leanring including imitation learning, reinforcement learning, and preference alignment. I’m especially interested in turning open-ended language goals into grounded sub-tasks, then training policies that are sample-efficient and robust enough to run on real applications. My goal is to create interpretable, safe robots that generalize beyond curated demos and handle the messy, everyday settings we live in.
 
-🚀 I am currently applying for PhD programs for Fall 2026.
+🚀 I am currently applying for PhD programs for Fall 2026. You can see my [CV](/files/Zhaoyang_Li_CV.pdf).
 
 Publications and Preprints
 ======
