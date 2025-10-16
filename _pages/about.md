@@ -47,8 +47,8 @@ Publications and Preprints
       <img src="images/ORIC.png" width="300" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
-      <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Hao Su.<br>
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
+      <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Hao Su.<br>
       <i>International Conference on Computer Vision (ICCV) 2025 Workshop on MMRAgI</i>; extended version in submission.<br>
       <a href="https://arxiv.org/abs/2509.15695">Paper</a> ·
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
@@ -61,8 +61,8 @@ Publications and Preprints
       <img src="images/InteractGPT.png" width="300" alt="InteractGPT" loading="lazy">
     </td>
     <td valign="top">
-      <b>Zhaoyang Li</b>, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.<br>
       <b>A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.</b><br>
+      <b>Zhaoyang Li</b>, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.<br>
       <i>Under Review, 2025.</i>
     </td>
   </tr>
@@ -73,8 +73,8 @@ Publications and Preprints
       <img src="images/s2v_dagger.png" width="300" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
-      Tongzhou Mu<sup>*</sup>, <b>Zhaoyang Li<sup>*</sup></b>, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.<br>
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
+      Tongzhou Mu<sup>*</sup>, <b>Zhaoyang Li<sup>*</sup></b>, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.<br>
       <i>AAAI Conference on Artificial Intelligence (AAAI) 2025.</i><br>
       <a href="https://arxiv.org/abs/2412.13662">Paper</a> ·
       <a href="https://github.com/ZhaoyangLi-1/s2v-dagger">Code</a>
@@ -87,8 +87,8 @@ Publications and Preprints
       <img src="images/jst.png" width="300" alt="JST" loading="lazy">
     </td>
     <td valign="top">
-      Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
       <b>Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.</b><br>
+      Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
       <i>ATTRIB Workshop at NeurIPS 2024; extended version in submission.</i><br>
       <a href="https://openreview.net/forum?id=dugoA2gfhs">Paper</a>
     </td>
