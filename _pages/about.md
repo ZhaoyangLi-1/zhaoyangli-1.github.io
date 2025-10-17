@@ -97,6 +97,15 @@ Publications and Preprints
 
 </div>
 
+Educations
+======
+- **B.S. in Computer Science & Mathematics (Double Major)**  
+  University of Wisconsin–Madison | 01/2021 – 05/2023
+
+- **M.S. in Electrical and Computer Engineering (Intelligent Systems, Robotics & Control)**  
+  University of California, San Diego | 09/2023 – 06/2025
+
+
 
 Professional Service
 ======
