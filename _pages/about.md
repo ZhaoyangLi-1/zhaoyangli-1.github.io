@@ -43,8 +43,8 @@ Publications and Preprints
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
   <!-- ORIC -->
   <tr>
-    <td width="300" valign="top">
-      <img src="images/ORIC.png" width="300" alt="ORIC" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/ORIC.png" width="280" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
@@ -57,8 +57,8 @@ Publications and Preprints
 
   <!-- InteractGPT -->
   <tr>
-    <td width="300" valign="top">
-      <img src="images/InteractGPT.png" width="300" alt="InteractGPT" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/InteractGPT.png" width="280" alt="InteractGPT" loading="lazy">
     </td>
     <td valign="top">
       <b>A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.</b><br>
@@ -69,8 +69,8 @@ Publications and Preprints
 
   <!-- S2V-Dagger -->
   <tr>
-    <td width="300" valign="top">
-      <img src="images/s2v_dagger.png" width="300" alt="S2V-Dagger" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/s2v_dagger.png" width="280" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
@@ -83,8 +83,8 @@ Publications and Preprints
 
   <!-- JST -->
   <tr>
-    <td width="300" valign="top">
-      <img src="images/jst.png" width="300" alt="JST" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/jst.png" width="280" alt="JST" loading="lazy">
     </td>
     <td valign="top">
       <b>Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.</b><br>
