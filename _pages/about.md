@@ -89,7 +89,7 @@ Publications and Preprints
     <td valign="top">
       <b>Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.</b><br>
       Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
-      <i>ATTRIB Workshop at NeurIPS 2024; extended version in submission.</i><br>
+      <i>ATTRIB Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024; extended version in submission.</i><br>
       <a href="https://openreview.net/forum?id=dugoA2gfhs">Paper</a>
     </td>
   </tr>
