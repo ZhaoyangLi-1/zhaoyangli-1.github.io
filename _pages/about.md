@@ -48,7 +48,7 @@ Publications and Preprints
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
-      <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Hao Su.<br>
+      <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su.<br>
       <i>MMRAg Workshop at International Conference on Computer Vision (ICCV) 2025</i>; extended version in submission.<br>
       <a href="https://arxiv.org/abs/2509.15695">Paper</a> ·
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
