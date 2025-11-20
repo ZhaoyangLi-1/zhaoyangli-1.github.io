@@ -14,7 +14,8 @@ Hello! I am a Research Assistant at [USC](https://www.usc.edu/), fortunate to be
 My research focuses on developing embodied agents that can perceive, reason, and act in the physical world. I work at the intersection of **multimodal learning**, **robot learning**, and **preference learning**. Concretely, I am interested in: 
 - Making large vision--language models robust under distribution shifts, improving their capacity to recognize objects and reason about scenes.
 - Learning sample-efficient control and planning policies through imitation learning, reinforcement learning, and diffusion-based methods.
-- Aligning robotic behaviors with human goals and preferences using feedback and preference data. My long-term goal is to build interpretable, reliable, and safe robots that generalize beyond curated demonstrations.
+- Aligning robotic behaviors with human goals and preferences using feedback and preference data.
+My long-term goal is to build interpretable, reliable, and safe robots that generalize beyond curated demonstrations.
 
 
 🚀 I am currently applying for PhD programs for Fall 2026. You can see my [CV](/files/Zhaoyang_Li_CV.pdf).
