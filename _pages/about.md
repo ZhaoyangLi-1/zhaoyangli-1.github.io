@@ -13,7 +13,7 @@ Hello! I am a Research Assistant at [USC](https://www.usc.edu/), fortunate to be
 
 My research focuses on developing embodied agents that can perceive, reason, and act in the physical world. I work at the intersection of **multimodal learning**, **robot learning**, and **preference learning**. Concretely, I am interested in:
 
-- Making large vision--language models robust under distribution shifts, improving their capacity to recognize objects and reason about scenes.
+- Making large vision--language models robust under distribution shifts, improving their capacity for detection and reasoning.
 - Learning sample-efficient control and planning policies through imitation learning, reinforcement learning, and diffusion-based methods.
 - Aligning robotic behaviors with human goals and preferences using feedback and preference data.
 
