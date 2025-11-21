@@ -11,13 +11,13 @@ redirect_from:
 Hello! I am a Research Assistant at [USC](https://www.usc.edu/), fortunate to be advised by [Erdem Biyik](https://ebiyik.github.io/). Previously, I completed my Master’s in [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), where I worked with [Hao Su](https://cseweb.ucsd.edu/~haosu/) and [Pengtao Xie](https://pengtaoxie.github.io/). I also earned a double major Bachelor’s degree in [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Mathematics](https://guide.wisc.edu/undergraduate/letters-science/mathematics/mathematics-ba/mathematics-mathematics-data-science-ba/#text) from [UW–Madison](https://www.wisc.edu/), where I worked with [Vikas Singh](https://www.biostat.wisc.edu/~vsingh/).
 
 
-My research focuses on developing embodied agents that can perceive, reason, and act in the physical world. I work at the intersection of **multimodal learning**, **robot learning**, and **preference learning**. Concretely, I am interested in:
+My research focuses on developing embodied agents that can perceive, reason, and act in the physical world. I work at the intersection of **multimodal learning**, **robot learning**, and **preference alignment**. Broadly, I am interested in:
 
-- Making large vision--language models robust under distribution shifts, improving their capacity for detection and reasoning.
-- Learning sample-efficient control and planning policies through imitation learning, reinforcement learning, and diffusion-based methods.
-- Aligning robotic behaviors with human goals and preferences using feedback and preference data.
+- Vision Language Models: enhancing the robustness of large vision–language models, with a focus on improving their physical grounding in real-world environments.
+- Efficient Control and Planning: developing effective policies through imitation learning, reinforcement learning, and diffusion-based generative methods.
+- Human-centered Alignment: grounding agents’ behaviors in human intentions using feedback, pairwise preferences, and other weak supervision.
 
-My long-term goal is to build interpretable, reliable, and safe robots that generalize beyond curated demonstrations.
+Ultimately, my goal is to build interpretable, reliable, and safe embodied agents that generalize beyond curated demonstrations and operate effectively in open-world environments.
 
 
 🚀 I am currently applying for PhD programs for Fall 2026. You can see my [CV](/files/Zhaoyang_Li_CV.pdf).
