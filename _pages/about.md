@@ -58,7 +58,7 @@ Publications and Preprints
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
       <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su.<br>
-      <i>MMRAg Workshop at International Conference on Computer Vision (ICCV) 2025</i>; extended version in submission.<br>
+      <i>MMRAg Workshop at International Conference on Computer Vision (ICCV) 2025</i>; extended version submitted to CVPR 2026.<br>
       <a href="https://arxiv.org/abs/2509.15695">Paper</a> ·
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
     </td>
@@ -72,7 +72,7 @@ Publications and Preprints
     <td valign="top">
       <b>A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.</b><br>
       <b>Zhaoyang Li</b>, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.<br>
-      <i>Under Review, 2025.</i>
+      <i>Submitted to Nature Biomedical Engineering.</i>
     </td>
   </tr>
 
