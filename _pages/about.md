@@ -14,7 +14,7 @@ Hello! I am a Research Assistant at [USC](https://www.usc.edu/), fortunate to be
 My research focuses on developing embodied agents that can perceive, reason, and act in the physical world. I work at the intersection of **multimodal learning**, **robot learning**, and **preference alignment**. Broadly, I am interested in:
 
 - **Vision–Language Models:** Enhancing the robustness of large vision–language models, with a focus on improving their physical grounding in real-world environments and their applications.
-- **Efficient Control and Planning:** Developing effective policies through imitation learning, reinforcement learning, and diffusion-based generative methods.
+- **Efficient Control and Planning:** Developing effective policies through imitation learning and reinforcement learning.
 - **Vision–Language–Action (VLA) Integration:** Integrating vision–language–action systems into unified embodied agents 
 - **Human-centered Alignment:** Grounding agents’ behaviors in human intentions using feedback, pairwise preferences, and other weak supervision.
 
