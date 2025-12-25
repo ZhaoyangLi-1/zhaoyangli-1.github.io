@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhaoyang Li's Personal Homepage"
+title                    : "Zhaoyang Li"
 title_separator          : "-"
 name                     : &name "Zhaoyang Li"
 description              : &description "A master student from University of California San Diego"
@@ -32,7 +32,7 @@ author:
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : # "lijefrrey@gmail.com" 
+  # email            : # "lijefrrey@gmail.com" 
 
   # Academic websites
   academia         : # URL
