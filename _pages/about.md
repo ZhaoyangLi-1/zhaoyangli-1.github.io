@@ -52,6 +52,19 @@ Publications and Preprints
 
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
+
+  <!-- VLA -->
+  <tr>
+    <td width="280" valign="top">
+      <img src="images/comming_soon.jpg" width="280" alt="VLA" loading="lazy">
+    </td>
+    <td valign="top">
+      <b>ARCI: Benchmarking Action Robustness under Contextual Incongruity in Vision–Language–Action Models</b><br>
+      <b>Zhaoyang Li (First Author)</b><br>
+      <i>Targeting IROS 2026.</i>
+    </td>
+  </tr>
+  
   <!-- ORIC -->
   <tr>
     <td width="280" valign="top">
