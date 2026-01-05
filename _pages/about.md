@@ -56,7 +56,7 @@ Publications and Preprints
   <!-- VLA -->
   <tr>
     <td width="280" valign="top">
-      <img src="images/comming_soon.jpg" width="280" alt="VLA" loading="lazy">
+      <img src="images/comming_soon.png" width="280" alt="VLA" loading="lazy">
     </td>
     <td valign="top">
       <b>ARCI: Benchmarking Action Robustness under Contextual Incongruity in Vision–Language–Action Models</b><br>
