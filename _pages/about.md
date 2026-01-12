@@ -56,6 +56,18 @@ Publications and Preprints
   <!-- VLA -->
   <tr>
     <td width="280" valign="top">
+      <img src="images/comming_soon.png" width="280" alt="BFN" loading="lazy">
+    </td>
+    <td valign=Bayesian Flow Networks for Robotic Manipulation"top">
+      <b></b><br>
+      <b>Zhaoyang Li (First Author)</b><br>
+      <i>Targeting CoRL 2026.</i>
+    </td>
+  </tr>
+
+  <!-- VLA -->
+  <tr>
+    <td width="280" valign="top">
       <img src="images/comming_soon.png" width="280" alt="VLA" loading="lazy">
     </td>
     <td valign="top">
