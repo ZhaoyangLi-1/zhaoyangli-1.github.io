@@ -56,14 +56,18 @@ Publications and Preprints
   <!-- VLA -->
   <tr>
     <td width="280" valign="top">
-      <img src="images/comming_soon.png" width="280" alt="VLA" loading="lazy">
+      <video width="280" autoplay loop muted playsinline>
+        <source src="files/BFN.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
     <td valign="top">
       <b>Bayesian Flow Networks for Robotic Manipulation</b><br>
       <b>Zhaoyang Li (First Author)</b><br>
-      <i>Targeting CoRL 2026.</i>
+    <i>Targeting IROS 2026.</i>
     </td>
   </tr>
+
 
   <!-- VLA -->
   <tr>
