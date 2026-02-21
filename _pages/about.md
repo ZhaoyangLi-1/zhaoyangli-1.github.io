@@ -90,7 +90,7 @@ Publications and Preprints
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
       <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su.<br>
       <i>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2026.<br>
-      <a href="https://arxiv.org/abs/2509.15695">Paper</a> ·
+      <a href="https://arxiv.org/abs/2509.15695">Paper</a>
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
     </td>
   </tr>
