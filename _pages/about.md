@@ -89,7 +89,7 @@ Publications and Preprints
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
       <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su.<br>
-      <i>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2026.</i><br>
+      <i>IEEE / CVF Computer Vision and Pattern Recognition Conference <b>(CVPR)</b> 2026.</i><br>
       <a href="https://arxiv.org/abs/2509.15695">Paper</a>
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
     </td>
@@ -115,7 +115,7 @@ Publications and Preprints
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
       Tongzhou Mu<sup>*</sup>, <b>Zhaoyang Li<sup>*</sup></b>, Stanisław Wiktor Strzelecki<sup>*</sup>, Xiu Yuan, Yunchao Yao, Litian Liang, Aditya Gulati, Hao Su.<br>
-      <i>AAAI Conference on Artificial Intelligence (AAAI) 2025.</i><br>
+      <i>AAAI Conference on Artificial Intelligence <b>(AAAI)</b> 2025.</i><br>
       <a href="https://arxiv.org/abs/2412.13662">Paper</a> ·
       <a href="https://github.com/ZhaoyangLi-1/s2v-dagger">Code</a>
     </td>
@@ -129,7 +129,7 @@ Publications and Preprints
     <td valign="top">
       <b>Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.</b><br>
       Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
-      <i>ATTRIB Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024; extended version in submission.</i><br>
+      <i>ATTRIB Workshop at Conference on Neural Information Processing Systems <b>(NeurIPS)</b> 2024; extended version in submission.</i><br>
       <a href="https://openreview.net/forum?id=dugoA2gfhs">Paper</a>
     </td>
   </tr>
