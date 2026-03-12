@@ -45,7 +45,7 @@ Publications and Preprints
 #pubs .card, #pubs .panel, #pubs .list-group-item,
 #pubs .archive__item { padding: 0 0 16px 0; margin: 0 0 18px 0; }
 #pubs {
-  font-size: 21px;      /* 基础字体 */
+  font-size: 18px;      /* 基础字体 */
   line-height: 2.0;
 }
 </style>
