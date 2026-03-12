@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 :root {
-  --about-page-font-size: 20px;
+  --about-page-font-size: 16px;
 }
 
 .page__title,
