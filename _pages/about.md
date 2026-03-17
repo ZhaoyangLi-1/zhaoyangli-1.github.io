@@ -189,7 +189,7 @@ Professional Service
 ======
 
 - Reviewer, AAAI 2025 Workshop on Large Language Models and Generative AI for Health  
-- Reviewer, AAAI 2026
+- Reviewer, AAAI, RA-L
 
 Teaching
 ======
