@@ -75,17 +75,6 @@ Hello! I wrok closely with [Erdem Biyik](https://ebiyik.github.io/). Previously,
 
 Email: [zhl165@ucsd.edu](mailto:zhl165@ucsd.edu), [lijefrrey@gmail.com](mailto:lijefrrey@gmail.com)
 
-My research focuses on developing embodied agents that can perceive, reason, and act in the physical world. I work at the intersection of **multimodal learning**, **robot learning**, and **preference alignment**. Broadly, I am interested in:
-
-- **Vision-Language Models:** Enhancing the robustness of large vision-language models, with a focus on improving their physical grounding in real-world environments and their applications.
-- **Efficient Control and Planning:** Developing effective policies through imitation learning and reinforcement learning.
-- **Vision-Language-Action (VLA) Integration:** Integrating vision-language-action systems into unified embodied agents.
-- **Human-centered Alignment:** Grounding agents' behaviors in human intentions using feedback, pairwise preferences, and other weak supervision.
-
-Ultimately, my goal is to build interpretable, reliable, and safe embodied agents that generalize beyond curated demonstrations and operate effectively in open-world environments.
-
-I am currently applying for PhD programs for Fall 2026. You can see my [CV](/files/Zhaoyang_Li_CV.pdf).
-
 Publications and Preprints
 ======
 
@@ -108,6 +97,7 @@ Publications and Preprints
     </td>
   </tr>
 
+
   <!-- S2V-Dagger -->
   <tr>
     <td width="280" valign="top">
@@ -122,6 +112,7 @@ Publications and Preprints
     </td>
   </tr>
 
+</table>
 </div>
 
 Educations
