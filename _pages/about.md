@@ -94,33 +94,6 @@ Publications and Preprints
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
 
-  <!-- VLA -->
-  <tr>
-    <td width="280" valign="top">
-      <video width="280" autoplay loop muted playsinline>
-        <source src="files/BFN.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td valign="top">
-      <b>Bayesian Flow Networks for Robotic Manipulation</b><br>
-      <b>Zhaoyang Li (First Author)</b><br>
-      <i>Targeting IROS 2026.</i>
-    </td>
-  </tr>
-
-  <!-- ARCI -->
-  <tr>
-    <td width="280" valign="top">
-      <img src="images/comming_soon.png" width="280" alt="VLA" loading="lazy">
-    </td>
-    <td valign="top">
-      <b>ARCI: Benchmarking Action Robustness under Contextual Incongruity in Vision-Language-Action Models</b><br>
-      <b>Zhaoyang Li (First Author)</b><br>
-      <i>Targeting IROS 2026.</i>
-    </td>
-  </tr>
-
   <!-- ORIC -->
   <tr>
     <td width="280" valign="top">
@@ -161,19 +134,6 @@ Publications and Preprints
     </td>
   </tr>
 
-  <!-- JST -->
-  <tr>
-    <td width="280" valign="top">
-      <img src="images/jst.png" width="280" alt="JST" loading="lazy">
-    </td>
-    <td valign="top">
-      <b>Just Select Twice: Leveraging Low-Quality Data to Improve Data Selection.</b><br>
-      Yifei Zhang, Yusen Jiao, Jiayi Chen, <b>Zhaoyang Li</b>, Huaxiu Yao, Jieyu Zhang, Frederic Sala.<br>
-      <i>ATTRIB Workshop at Conference on Neural Information Processing Systems <b>(NeurIPS)</b> 2024; extended version in submission.</i><br>
-      <a href="https://openreview.net/forum?id=dugoA2gfhs">Paper</a>
-    </td>
-  </tr>
-</table>
 </div>
 
 Educations
