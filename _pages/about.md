@@ -108,18 +108,6 @@ Publications and Preprints
     </td>
   </tr>
 
-  <!-- InteractGPT -->
-  <tr>
-    <td width="280" valign="top">
-      <img src="images/InteractGPT.png" width="280" alt="InteractGPT" loading="lazy">
-    </td>
-    <td valign="top">
-      <b>A Multi-modal Large Language Model for Predicting Mechanisms of Drug Interactions.</b><br>
-      <b>Zhaoyang Li</b>, Sushaanth Srinivasan, Ninad Ekbote, Pengtao Xie.<br>
-      <i>Submitted to Nature Biomedical Engineering.</i>
-    </td>
-  </tr>
-
   <!-- S2V-Dagger -->
   <tr>
     <td width="280" valign="top">
