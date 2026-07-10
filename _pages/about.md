@@ -83,14 +83,28 @@ Publications and Preprints
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
   <!-- BFN Policy-->
-  <tr>
-    <td width="360" valign="top">
-      <video width="200" autoplay loop muted playsinline>
+  <!-- <tr>
+    <td width="280" valign="top">
+      <video width="180" autoplay loop muted playsinline>
         <source src="files/xArm.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <br>
-      <img src="images/BFN.png" width="340" alt="Bayesian Flow Networks">
+      <img src="images/BFN.png" width="280" alt="Bayesian Flow Networks">
+    </td>
+    <td valign="top">
+      <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
+      <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara<sup>*</sup>, Abha Jha<sup>*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik<br>
+      <i>Under review.</i>
+    </td>
+  </tr> -->
+  <!-- BFN Policy-->
+  <tr>
+    <td width="280" valign="top">
+      <video width="280" autoplay loop muted playsinline>
+        <source src="files/xArm.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
     <td valign="top">
       <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
@@ -100,8 +114,8 @@ Publications and Preprints
   </tr>
   <!-- ORIC -->
   <tr>
-    <td width="360" valign="top">
-      <img src="images/ORIC.png" width="340" alt="ORIC" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/ORIC.png" width="280" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
@@ -113,8 +127,8 @@ Publications and Preprints
   </tr>
   <!-- S2V-Dagger -->
   <tr>
-    <td width="360" valign="top">
-      <img src="images/s2v_dagger.png" width="340" alt="S2V-Dagger" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/s2v_dagger.png" width="280" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
