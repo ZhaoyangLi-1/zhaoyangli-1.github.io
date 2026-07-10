@@ -86,7 +86,7 @@ Publications and Preprints
   <!-- BFN Policy-->
   <tr>
     <td width="280" valign="top">
-      <video width="280" autoplay loop muted playsinline>
+      <video width="180" autoplay loop muted playsinline>
         <source src="files/xArm.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
