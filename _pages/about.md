@@ -82,7 +82,6 @@ Publications and Preprints
 
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
-
   <!-- BFN Policy-->
   <tr>
     <td width="360" valign="top">
@@ -99,11 +98,10 @@ Publications and Preprints
       <i>Under review.</i>
     </td>
   </tr>
-
   <!-- ORIC -->
   <tr>
-    <td width="280" valign="top">
-      <img src="images/ORIC.png" width="280" alt="ORIC" loading="lazy">
+    <td width="360" valign="top">
+      <img src="images/ORIC.png" width="340" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
@@ -113,12 +111,10 @@ Publications and Preprints
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
     </td>
   </tr>
-
-
   <!-- S2V-Dagger -->
   <tr>
-    <td width="280" valign="top">
-      <img src="images/s2v_dagger.png" width="280" alt="S2V-Dagger" loading="lazy">
+    <td width="360" valign="top">
+      <img src="images/s2v_dagger.png" width="340" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
@@ -128,7 +124,6 @@ Publications and Preprints
       <a href="https://github.com/ZhaoyangLi-1/s2v-dagger">Code</a>
     </td>
   </tr>
-
 </table>
 </div>
 
