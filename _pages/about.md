@@ -162,7 +162,7 @@ Professional Service
 ======
 
 - Reviewer, AAAI 2025 Workshop on Large Language Models and Generative AI for Health  
-- Reviewer, AAAI, RA-L
+- Reviewer, AAAI
 
 Teaching
 ======
