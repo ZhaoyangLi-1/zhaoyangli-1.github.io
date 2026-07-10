@@ -13,7 +13,9 @@ redirect_from:
   --about-page-font-size: 16px;
 }
 
+/* Apply the font-size variable to all text content on the page */
 .page__title,
+.page__content,
 .page__content p,
 .page__content li,
 .page__content dl,
@@ -39,8 +41,25 @@ redirect_from:
 .page__content span,
 .page__content small,
 .page__content sup,
-.page__content sub {
+.page__content sub,
+#pubs,
+#pubs td,
+#pubs tr,
+#pubs table,
+#pubs b,
+#pubs strong,
+#pubs i,
+#pubs em,
+#pubs a,
+#pubs span {
   font-size: var(--about-page-font-size);
+}
+
+/* Keep superscript markers slightly smaller and raised (normal <sup> behavior) */
+.page__content sup,
+#pubs sup {
+  font-size: calc(var(--about-page-font-size) * 0.75);
+  vertical-align: super;
 }
 
 .page__content {
@@ -93,22 +112,6 @@ Publications and Preprints
 
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
-  <!-- BFN Policy-->
-  <!-- <tr>
-    <td width="280" valign="top">
-      <video width="180" autoplay loop muted playsinline>
-        <source src="files/xArm.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <br>
-      <img src="images/BFN.png" width="280" alt="Bayesian Flow Networks">
-    </td>
-    <td valign="top">
-      <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
-      <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara<sup>*</sup>, Abha Jha<sup>*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik<br>
-      <i>Under review.</i>
-    </td>
-  </tr> -->
   <!-- BFN Policy-->
   <tr>
     <td width="280" valign="top">
