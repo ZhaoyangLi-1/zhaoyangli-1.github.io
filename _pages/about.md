@@ -83,7 +83,7 @@ Publications and Preprints
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
 
-   <!-- BFN Policy-->
+  <!-- BFN Policy-->
   <tr>
     <td width="280" valign="top">
       <video width="280" autoplay loop muted playsinline>
@@ -95,7 +95,7 @@ Publications and Preprints
     </td>
     <td valign="top">
       <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
-      <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara*</sup>, Abha Jha*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik<br>
+      <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara<sup>*</sup>, Abha Jha<sup>*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik<br>
       <i>Under review.</i>
     </td>
   </tr>
