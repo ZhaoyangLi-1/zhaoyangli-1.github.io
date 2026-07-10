@@ -71,7 +71,7 @@ redirect_from:
 }
 </style>
 
-Hello! I am an incoming CS PhD student at [Rutgers University](https://www.cs.rutgers.edu/), where I will be advised by [Abdeslam Boularias](https://rl.cs.rutgers.edu/). I also work closely with [Erdem Biyik](https://ebiyik.github.io/). Previously, I completed my Master's in [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), where I worked with [Hao Su](https://cseweb.ucsd.edu/~haosu/) and [Pengtao Xie](https://pengtaoxie.github.io/). I also earned a double major Bachelor's degree in [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Mathematics](https://guide.wisc.edu/undergraduate/letters-science/mathematics/mathematics-ba/mathematics-mathematics-data-science-ba/#text) from [UW-Madison](https://www.wisc.edu/), where I worked with [Vikas Singh](https://www.biostat.wisc.edu/~vsingh/).</br>
+Hello! I am an incoming CS PhD student at [Rutgers University](https://www.cs.rutgers.edu/), where I will be advised by [Abdeslam Boularias](https://rl.cs.rutgers.edu/). I previously worked closely with [Erdem Biyik](https://ebiyik.github.io/). I completed my Master's in [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), where I worked with [Hao Su](https://www.haosu.ai/) and [Pengtao Xie](https://pengtaoxie.github.io/). I also earned a double major Bachelor's degree in [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Mathematics](https://guide.wisc.edu/undergraduate/letters-science/mathematics/mathematics-ba/mathematics-mathematics-data-science-ba/#text) from [UW-Madison](https://www.wisc.edu/), where I worked with [Vikas Singh](https://www.biostat.wisc.edu/~vsingh/).</br>
 
 Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu), [lijefrrey@gmail.com](mailto:lijefrrey@gmail.com)
 
@@ -91,7 +91,7 @@ Publications and Preprints
         Your browser does not support the video tag.
       </video>
       <br>
-      <img src="files/BFN.png" width="280" alt="Bayesian Flow Networks">
+      <img src="images/BFN.png" width="280" alt="Bayesian Flow Networks">
     </td>
     <td valign="top">
       <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
