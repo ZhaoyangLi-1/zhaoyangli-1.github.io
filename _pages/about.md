@@ -73,7 +73,7 @@ redirect_from:
 
 Hello! I wrok closely with [Erdem Biyik](https://ebiyik.github.io/). Previously, I completed my Master's in [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), where I worked with [Hao Su](https://cseweb.ucsd.edu/~haosu/) and [Pengtao Xie](https://pengtaoxie.github.io/). I also earned a double major Bachelor's degree in [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Mathematics](https://guide.wisc.edu/undergraduate/letters-science/mathematics/mathematics-ba/mathematics-mathematics-data-science-ba/#text) from [UW-Madison](https://www.wisc.edu/), where I worked with [Vikas Singh](https://www.biostat.wisc.edu/~vsingh/).
 
-Email: [zhl165@ucsd.edu](mailto:zhl165@ucsd.edu), [lijefrrey@gmail.com](mailto:lijefrrey@gmail.com)
+Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu), [lijefrrey@gmail.com](mailto:lijefrrey@gmail.com)
 
 Publications and Preprints
 ======
@@ -82,6 +82,23 @@ Publications and Preprints
 
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
+
+   <!-- BFN Policy-->
+  <tr>
+    <td width="280" valign="top">
+      <video width="280" autoplay loop muted playsinline>
+        <source src="files/BFN.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <br>
+      <img src="files/BFN.png" width="280" alt="Bayesian Flow Networks">
+    </td>
+    <td valign="top">
+      <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
+      <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara*</sup>, Abha Jha*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik<br>
+      <i>Under review.</i>
+    </td>
+  </tr>
 
   <!-- ORIC -->
   <tr>
