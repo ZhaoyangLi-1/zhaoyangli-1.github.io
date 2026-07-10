@@ -59,7 +59,9 @@ redirect_from:
 .page__content sup,
 #pubs sup {
   font-size: calc(var(--about-page-font-size) * 0.75);
-  vertical-align: super;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.3em;
 }
 
 .page__content {
