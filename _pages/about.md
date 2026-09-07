@@ -11,6 +11,29 @@ redirect_from:
 <style>
 :root {
   --about-page-font-size: 17px;
+  --about-page-max-width: 1600px;   /* 想更宽/更窄，改这一个值即可 */
+}
+
+/* ===== Page width ===== */
+/* 放宽整体内容容器（主题默认 1280px） */
+#main {
+  max-width: var(--about-page-max-width) !important;
+}
+
+/* 去掉主题为右侧 TOC 预留的空白；
+   925px / 1280px 分别对应主题的 $large / $x-large 断点，两个都要写 */
+@media screen and (min-width: 925px) {
+  .page {
+    width: calc(100% - 200px) !important;
+    padding-right: 0 !important;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .page {
+    width: calc(100% - 300px) !important;
+    padding-right: 0 !important;
+  }
 }
 
 /* Apply the font-size variable to all text content on the page */
@@ -132,6 +155,26 @@ redirect_from:
 #pubs {
   line-height: 2.0;
 }
+
+/* ===== Publication thumbnails: scale with the page width ===== */
+#pubs td.pub-media {
+  width: 30%;
+}
+
+#pubs .pub-media img,
+#pubs .pub-media video {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+@media screen and (max-width: 600px) {
+  #pubs td.pub-media {
+    width: 38%;
+  }
+}
 </style>
 
 About Me
@@ -197,8 +240,8 @@ Publications and Preprints
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
   <!-- BFN Policy-->
   <tr>
-    <td width="250" valign="top">
-      <video width="250" autoplay loop muted playsinline>
+    <td class="pub-media" valign="top">
+      <video autoplay loop muted playsinline>
         <source src="files/xArm.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -211,21 +254,21 @@ Publications and Preprints
   </tr>
   <!-- ORIC -->
   <tr>
-    <td width="280" valign="top">
-      <img src="images/ORIC.png" width="280" alt="ORIC" loading="lazy">
+    <td class="pub-media" valign="top">
+      <img src="images/ORIC.png" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
       <b>Zhaoyang Li<sup>*</sup></b>, Zhan Ling<sup>*</sup>, Yuchen Zhou, Litian Gong, Erdem Biyik, Hao Su.<br>
       <i>IEEE / CVF Computer Vision and Pattern Recognition Conference <b>(CVPR)</b> 2026.</i><br>
-      <a href="https://arxiv.org/abs/2509.15695v5">Paper</a>
+      <a href="https://arxiv.org/abs/2509.15695v5">Paper</a> |
       <a href="https://github.com/ZhaoyangLi-1/ORIC">Code</a>
     </td>
   </tr>
   <!-- S2V-Dagger -->
   <tr>
-    <td width="280" valign="top">
-      <img src="images/s2v_dagger.png" width="280" alt="S2V-Dagger" loading="lazy">
+    <td class="pub-media" valign="top">
+      <img src="images/s2v_dagger.png" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
