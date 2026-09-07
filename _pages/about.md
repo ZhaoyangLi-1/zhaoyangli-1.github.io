@@ -211,8 +211,8 @@ Publications and Preprints
   </tr>
   <!-- ORIC -->
   <tr>
-    <td width="270" valign="top">
-      <img src="images/ORIC.png" width="270" alt="ORIC" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/ORIC.png" width="280" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
@@ -224,8 +224,8 @@ Publications and Preprints
   </tr>
   <!-- S2V-Dagger -->
   <tr>
-    <td width="270" valign="top">
-      <img src="images/s2v_dagger.png" width="270" alt="S2V-Dagger" loading="lazy">
+    <td width="280" valign="top">
+      <img src="images/s2v_dagger.png" width="280" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
