@@ -82,6 +82,16 @@ redirect_from:
   box-shadow: none !important;
 }
 
+.edu-logo img.logo-ucsd {
+  max-height: 68px !important;
+  max-width: 90px !important;
+}
+
+.edu-logo img.logo-wisc {
+  max-height: 68px !important;
+  max-width: 90px !important;
+}
+
 .edu-text {
   line-height: 1.7;
 }
@@ -159,7 +169,7 @@ Education
 </div>
 
 <div class="edu-item">
-  <div class="edu-logo"><img src="images/UCSD.png" alt="UC San Diego"></div>
+  <div class="edu-logo"><img class="logo-ucsd" src="images/UCSD.png" alt="UC San Diego"></div>
   <div class="edu-text">
     <b>M.S. in Electrical and Computer Engineering</b><br>
     Intelligent Systems, Robotics &amp; Control<br>
@@ -168,7 +178,7 @@ Education
 </div>
 
 <div class="edu-item">
-  <div class="edu-logo"><img src="images/WISC.png" alt="UW–Madison"></div>
+  <div class="edu-logo"><img class="logo-wisc" src="images/WISC.png" alt="UW–Madison"></div>
   <div class="edu-text">
     <b>B.S. in Computer Science &amp; Mathematics</b> (Double Major)<br>
     University of Wisconsin–Madison | 01/2021 – 05/2023
@@ -201,8 +211,8 @@ Publications and Preprints
   </tr>
   <!-- ORIC -->
   <tr>
-    <td width="250" valign="top">
-      <img src="images/ORIC.png" width="250" alt="ORIC" loading="lazy">
+    <td width="260" valign="top">
+      <img src="images/ORIC.png" width="260" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
@@ -214,8 +224,8 @@ Publications and Preprints
   </tr>
   <!-- S2V-Dagger -->
   <tr>
-    <td width="250" valign="top">
-      <img src="images/s2v_dagger.png" width="250" alt="S2V-Dagger" loading="lazy">
+    <td width="260" valign="top">
+      <img src="images/s2v_dagger.png" width="260" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
