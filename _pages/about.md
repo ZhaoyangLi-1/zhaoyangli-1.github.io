@@ -187,8 +187,8 @@ Publications and Preprints
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
   <!-- BFN Policy-->
   <tr>
-    <td width="280" valign="top">
-      <video width="280" autoplay loop muted playsinline>
+    <td width="250" valign="top">
+      <video width="250" autoplay loop muted playsinline>
         <source src="files/xArm.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -201,8 +201,8 @@ Publications and Preprints
   </tr>
   <!-- ORIC -->
   <tr>
-    <td width="280" valign="top">
-      <img src="images/ORIC.png" width="280" alt="ORIC" loading="lazy">
+    <td width="250" valign="top">
+      <img src="images/ORIC.png" width="250" alt="ORIC" loading="lazy">
     </td>
     <td valign="top">
       <b>ORIC: Benchmarking Object Recognition in Incongruous Context for Large Vision-Language Models.</b><br>
@@ -214,8 +214,8 @@ Publications and Preprints
   </tr>
   <!-- S2V-Dagger -->
   <tr>
-    <td width="280" valign="top">
-      <img src="images/s2v_dagger.png" width="280" alt="S2V-Dagger" loading="lazy">
+    <td width="250" valign="top">
+      <img src="images/s2v_dagger.png" width="250" alt="S2V-Dagger" loading="lazy">
     </td>
     <td valign="top">
       <b>When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?</b><br>
