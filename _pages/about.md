@@ -12,6 +12,7 @@ redirect_from:
 :root {
   --about-page-font-size: 17px;
   --about-page-max-width: 1200px;   /* 想更宽/更窄，改这一个值即可 */
+  --sidebar-width: 240px;
 }
 
 
@@ -20,15 +21,21 @@ redirect_from:
 }
 
 @media screen and (min-width: 925px) {
-  .page {
-    width: calc(100% - 200px) !important;
-    padding-right: 0 !important;
+  .sidebar {
+    width: calc(var(--sidebar-width) - 1em) !important;
   }
-}
 
-@media screen and (min-width: 1280px) {
+  .sidebar .author__avatar img,
+  .sidebar img.author__avatar {
+    width: 100% !important;
+    max-width: var(--sidebar-width) !important;
+    height: auto !important;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
+
   .page {
-    width: calc(100% - 300px) !important;
+    width: calc(100% - var(--sidebar-width)) !important;
     padding-right: 0 !important;
   }
 }
