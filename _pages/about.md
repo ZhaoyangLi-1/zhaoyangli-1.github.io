@@ -83,8 +83,8 @@ redirect_from:
 }
 
 .edu-logo img.logo-ucsd {
-  max-height: 68px !important;
-  max-width: 90px !important;
+  max-height: 71px !important;
+  max-width: 93px !important;
 }
 
 .edu-logo img.logo-wisc {
