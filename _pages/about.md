@@ -11,7 +11,7 @@ redirect_from:
 <style>
 :root {
   --about-page-font-size: 17px;
-  --about-page-max-width: 800px;   /* 想更宽/更窄，改这一个值即可 */
+  --about-page-max-width: 1000px;   /* 想更宽/更窄，改这一个值即可 */
 }
 
 
