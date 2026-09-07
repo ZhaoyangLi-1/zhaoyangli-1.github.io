@@ -56,6 +56,38 @@ redirect_from:
 }
 
 /* Keep superscript markers slightly smaller and raised (normal <sup> behavior) */
+.edu-item {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin: 0 0 20px 0;
+  border: 0 !important;
+  background: transparent !important;
+}
+
+.edu-logo {
+  flex: 0 0 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.edu-logo img {
+  max-width: 90px !important;
+  max-height: 52px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.edu-text {
+  line-height: 1.7;
+}
+
+
+  
 .page__content sup,
 #pubs sup {
   font-size: calc(var(--about-page-font-size) * 0.75);
