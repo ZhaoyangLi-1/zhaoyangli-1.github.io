@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 :root {
-  --about-page-font-size: 16px;
+  --about-page-font-size: 17px;
 }
 
 /* Apply the font-size variable to all text content on the page */
