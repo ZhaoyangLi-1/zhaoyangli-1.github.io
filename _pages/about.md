@@ -98,7 +98,7 @@ I am a Ph.D. student in the [Computer Science Department](https://www.cs.rutgers
 
 Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu)
 
-<p>
+<!-- <p>
   <img src="images/logos.png"
        alt="UW–Madison · UC San Diego · Rutgers"
        style="width:100%; max-width:500px; height:auto; display:block; margin:16px 0;">
@@ -113,7 +113,46 @@ Educations
   University of California, San Diego | 09/2023 - 06/2025
 
 - **B.S. in Computer Science & Mathematics (Double Major)**  
-  University of Wisconsin-Madison | 01/2021 - 05/2023
+  University of Wisconsin-Madison | 01/2021 - 05/2023 -->
+
+Education
+======
+
+<div id="edu">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="76" valign="middle" style="padding:10px 16px 10px 0;">
+      <img src="images/RU.png" style="height:44px; width:auto;" alt="Rutgers">
+    </td>
+    <td valign="middle">
+      <b>Ph.D. in Computer Science</b><br>
+      Rutgers University–New Brunswick | 09/2026 – Present
+    </td>
+  </tr>
+  <tr>
+    <td width="76" valign="middle" style="padding:10px 16px 10px 0;">
+      <img src="images/UCSD.png" style="height:44px; width:auto;" alt="UC San Diego">
+    </td>
+    <td valign="middle">
+      <b>M.S. in Electrical and Computer Engineering</b><br>
+      Intelligent Systems, Robotics &amp; Control<br>
+      University of California, San Diego | 09/2023 – 06/2025
+    </td>
+  </tr>
+  <tr>
+    <td width="76" valign="middle" style="padding:10px 16px 10px 0;">
+      <img src="images/WISC.png" style="height:44px; width:auto;" alt="UW–Madison">
+    </td>
+    <td valign="middle">
+      <b>B.S. in Computer Science &amp; Mathematics</b> (Double Major)<br>
+      University of Wisconsin–Madison | 01/2021 – 05/2023
+    </td>
+  </tr>
+</table>
+</div>
+
+
+  
 
 Publications and Preprints
 ======
