@@ -118,37 +118,29 @@ Educations
 Education
 ======
 
-<div id="edu">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="76" valign="middle" style="padding:10px 16px 10px 0;">
-      <img src="images/RU.png" style="height:44px; width:auto;" alt="Rutgers">
-    </td>
-    <td valign="middle">
-      <b>Ph.D. in Computer Science</b><br>
-      Rutgers University–New Brunswick | 09/2026 – Present
-    </td>
-  </tr>
-  <tr>
-    <td width="76" valign="middle" style="padding:10px 16px 10px 0;">
-      <img src="images/UCSD.png" style="height:44px; width:auto;" alt="UC San Diego">
-    </td>
-    <td valign="middle">
-      <b>M.S. in Electrical and Computer Engineering</b><br>
-      Intelligent Systems, Robotics &amp; Control<br>
-      University of California, San Diego | 09/2023 – 06/2025
-    </td>
-  </tr>
-  <tr>
-    <td width="76" valign="middle" style="padding:10px 16px 10px 0;">
-      <img src="images/WISC.png" style="height:44px; width:auto;" alt="UW–Madison">
-    </td>
-    <td valign="middle">
-      <b>B.S. in Computer Science &amp; Mathematics</b> (Double Major)<br>
-      University of Wisconsin–Madison | 01/2021 – 05/2023
-    </td>
-  </tr>
-</table>
+<div class="edu-item">
+  <div class="edu-logo"><img src="images/RU.png" alt="Rutgers"></div>
+  <div class="edu-text">
+    <b>Ph.D. in Computer Science</b><br>
+    Rutgers University–New Brunswick | 09/2026 – Present
+  </div>
+</div>
+
+<div class="edu-item">
+  <div class="edu-logo"><img src="images/UCSD.png" alt="UC San Diego"></div>
+  <div class="edu-text">
+    <b>M.S. in Electrical and Computer Engineering</b><br>
+    Intelligent Systems, Robotics &amp; Control<br>
+    University of California, San Diego | 09/2023 – 06/2025
+  </div>
+</div>
+
+<div class="edu-item">
+  <div class="edu-logo"><img src="images/WISC.png" alt="UW–Madison"></div>
+  <div class="edu-text">
+    <b>B.S. in Computer Science &amp; Mathematics</b> (Double Major)<br>
+    University of Wisconsin–Madison | 01/2021 – 05/2023
+  </div>
 </div>
 
 
