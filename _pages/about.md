@@ -66,7 +66,7 @@ redirect_from:
 }
 
 .edu-logo {
-  flex: 0 0 90px;
+  flex: 0 0 92px;
   display: flex;
   align-items: center;
   justify-content: center;
