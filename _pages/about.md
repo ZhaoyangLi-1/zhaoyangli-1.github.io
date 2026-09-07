@@ -101,7 +101,7 @@ Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu)
 <p align="center">
   <img src="images/logos.png"
        alt="UW–Madison · UC San Diego · Rutgers"
-       style="width:100%; max-width:720px; height:auto; display:block; margin:24px auto;">
+       style="width:100%; max-width:420px; height:auto; display:block; margin:16px auto;">
 </p>
 
 Educations
