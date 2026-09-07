@@ -14,14 +14,11 @@ redirect_from:
   --about-page-max-width: 1600px;   /* 想更宽/更窄，改这一个值即可 */
 }
 
-/* ===== Page width ===== */
-/* 放宽整体内容容器（主题默认 1280px） */
+
 #main {
   max-width: var(--about-page-max-width) !important;
 }
 
-/* 去掉主题为右侧 TOC 预留的空白；
-   925px / 1280px 分别对应主题的 $large / $x-large 断点，两个都要写 */
 @media screen and (min-width: 925px) {
   .page {
     width: calc(100% - 200px) !important;
