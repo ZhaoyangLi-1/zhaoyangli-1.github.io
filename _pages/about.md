@@ -98,6 +98,12 @@ I am a Ph.D. student in the [Computer Science Department at Rutgers University](
 
 Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu)
 
+<p align="center">
+  <img src="images/logos.png"
+       alt="UW–Madison · UC San Diego · Rutgers"
+       style="width:100%; max-width:720px; height:auto; display:block; margin:24px auto;">
+</p>
+
 Educations
 ======
 - **Ph.D. in Computer Science**  
