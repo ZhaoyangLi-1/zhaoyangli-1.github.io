@@ -15,7 +15,7 @@ redirect_from:
   --sidebar-width: 240px;
 
   /* ===== 标题字号：改这三个值即可 ===== */
-  --section-title-font-size: 24px;  /* About Me / Education / Publications 这类大标题 */
+  --section-title-font-size: 22px;  /* About Me / Education / Publications 这类大标题 */
   --sub-title-font-size: 18px;      /* 二级标题 */
   --sub-sub-title-font-size: 14px;  /* 三级标题 */
 }
