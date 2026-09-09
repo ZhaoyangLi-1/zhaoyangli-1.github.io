@@ -13,6 +13,11 @@ redirect_from:
   --about-page-font-size: 17px;
   --about-page-max-width: 1400px;   /* 想更宽/更窄，改这一个值即可 */
   --sidebar-width: 240px;
+
+  /* ===== 标题字号：改这三个值即可 ===== */
+  --section-title-font-size: 30px;  /* About Me / Education / Publications 这类大标题 */
+  --sub-title-font-size: 22px;      /* 二级标题 */
+  --sub-sub-title-font-size: 19px;  /* 三级标题 */
 }
 
 
@@ -40,8 +45,8 @@ redirect_from:
   }
 }
 
-/* Apply the font-size variable to all text content on the page */
-.page__title,
+/* Body text: apply the font-size variable to all non-heading content.
+   Headings are deliberately excluded here and sized in the block below. */
 .page__content,
 .page__content p,
 .page__content li,
@@ -54,12 +59,6 @@ redirect_from:
 .page__content tr,
 .page__content td,
 .page__content th,
-.page__content h1,
-.page__content h2,
-.page__content h3,
-.page__content h4,
-.page__content h5,
-.page__content h6,
 .page__content a,
 .page__content b,
 .page__content strong,
@@ -82,7 +81,38 @@ redirect_from:
   font-size: var(--about-page-font-size);
 }
 
+/* ===== Section headings (About Me / Education / Publications ...) ===== */
+.page__content h1,
+.page__content h1 a {
+  font-size: var(--section-title-font-size);
+  line-height: 1.3;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
+.page__content h2,
+.page__content h2 a {
+  font-size: var(--sub-title-font-size);
+  line-height: 1.35;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+.page__content h3,
+.page__content h3 a {
+  font-size: var(--sub-sub-title-font-size);
+  line-height: 1.4;
+}
+
 /* Keep superscript markers slightly smaller and raised (normal <sup> behavior) */
+.page__content sup,
+#pubs sup {
+  font-size: calc(var(--about-page-font-size) * 0.75);
+  vertical-align: baseline;
+  position: relative;
+  top: -0.3em;
+}
+
 .edu-item {
   display: flex;
   align-items: center;
@@ -121,16 +151,6 @@ redirect_from:
 
 .edu-text {
   line-height: 1.7;
-}
-
-
-  
-.page__content sup,
-#pubs sup {
-  font-size: calc(var(--about-page-font-size) * 0.75);
-  vertical-align: baseline;
-  position: relative;
-  top: -0.3em;
 }
 
 .page__content {
