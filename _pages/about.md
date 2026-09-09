@@ -315,8 +315,9 @@ Professional Service
 Teaching
 ======
 
-Teaching Assistant at UW-Madison - Spring 2023  
-- CS540: Introduction to Artificial Intelligence  
+Teaching Assistant at Rutgers University–New Brunswick
+- CS336: Principles of Information and Data Management
 
-Peer Mentor at UW-Madison - Fall 2022  
+Teaching Assistant at UW-Madison
 - CS537: Introduction to Operating System
+- CS540: Introduction to Artificial Intelligence  
