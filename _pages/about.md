@@ -12,7 +12,7 @@ redirect_from:
 :root {
   --about-page-font-size: 17px;
   --about-page-max-width: 1400px;   /* 想更宽/更窄，改这一个值即可 */
-  --sidebar-width: 240px;
+  --sidebar-width: 290px;
 
   /* ===== 标题字号：改这三个值即可 ===== */
   --section-title-font-size: 22px;  /* About Me / Education / Publications 这类大标题 */
