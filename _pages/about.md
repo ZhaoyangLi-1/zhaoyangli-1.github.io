@@ -309,8 +309,12 @@ Publications and Preprints
 Professional Service
 ======
 
-- Reviewer, AAAI 2025 Workshop on Large Language Models and Generative AI for Health  
-- Reviewer, AAAI
+Reviewer
+- AAAI Conference on Artificial Intelligence
+- AAAI Workshop: Large Language Models and Generative AI for Health
+
+Workshop Organizer
+- The 1st Workshop on Social Embodied AI (SEAI), in conjunction with WACV 2027
 
 Teaching
 ======
