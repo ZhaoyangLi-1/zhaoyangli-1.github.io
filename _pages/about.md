@@ -310,8 +310,8 @@ Professional Service
 ======
 
 Reviewer
-- AAAI Conference on Artificial Intelligence
-- AAAI Workshop: Large Language Models and Generative AI for Health
+- AAAI Conference on Artificial Intelligence (2026, 2027)
+- AAAI Workshop: Large Language Models and Generative AI for Health (2026)
 
 Workshop Organizer
 - The 1st Workshop on Social Embodied AI (SEAI), in conjunction with WACV 2027
