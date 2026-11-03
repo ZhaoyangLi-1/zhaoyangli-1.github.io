@@ -273,7 +273,7 @@ Publications and Preprints
     <td valign="top">
       <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
       <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara<sup>*</sup>, Abha Jha<sup>*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik<br>
-      <i>Under review.</i>
+      <i>Under review. Also at <a href="https://actiongapworkshop.github.io/">CoRL 2026 G2A Workshop</a>.</i>
     </td>
   </tr>
   <!-- ORIC -->
