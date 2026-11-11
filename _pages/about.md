@@ -205,6 +205,18 @@ About Me
 ======
 I am a first-year Ph.D. student in the [Computer Science Department](https://www.cs.rutgers.edu/) at Rutgers University–New Brunswick, advised by [Abdeslam Boularias](https://rl.cs.rutgers.edu/). Before joining Rutgers, I worked closely with [Erdem Biyik](https://ebiyik.github.io/). I received my M.S. in [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) from UC San Diego, where I was fortunate to work with [Hao Su](https://www.haosu.ai/) and [Pengtao Xie](https://pengtaoxie.github.io/). Prior to that, I earned a B.S. with a double major in [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) and [Mathematics](https://guide.wisc.edu/undergraduate/letters-science/mathematics/mathematics-ba/mathematics-mathematics-data-science-ba/#text) from UW–Madison, where I worked with [Vikas Singh](https://www.biostat.wisc.edu/~vsingh/).
 
+My research focuses on developing **embodied agents** that perceive, reason, and act in the physical world. I work at the intersection of **multimodal learning**, **robot learning**, and **world models**, with a focus on:
+
+1. Improving the **robustness of vision-language models** and their deployment in robotics;
+2. Developing **efficient control and planning policies**;
+3. Learning **structured memory and representations** for long-horizon decision making, across robot policies and world models.
+
+Ultimately, I aim to build reliable, interpretable agents that generalize to real-world environments.
+
+<p style="border-left: 4px solid #4a90d9; background: #f3f8fd; padding: 10px 14px; border-radius: 4px; margin-top: 1em;">
+🔍 <strong>I am actively looking for research internship opportunities for Summer 2027.</strong> Please feel free to reach out! My CV is available <a href="/files/Zhaoyang_Li_CV.pdf">here</a>.
+</p>
+
 Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu)
 
 <!-- <p>
