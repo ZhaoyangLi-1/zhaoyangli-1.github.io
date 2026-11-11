@@ -274,6 +274,17 @@ Publications and Preprints
 
 <div id="pubs">
 <table border="0" width="100%" cellspacing="12" cellpadding="0">
+  <tr>
+  <td class="pub-media" valign="top">
+    <img src="images/comming_soon.png" alt="Coming soon" loading="lazy">
+  </td>
+  <td valign="top">
+    <b>Hindsight-Supervised Memory for Robot Policies</b><br>
+    <b>Zhaoyang Li</b> and Abdeslam Boularias<br>
+    <i>Project ongoing.</i><br>
+    <span style="color: #999;">Paper (coming soon) | Code (coming soon)</span>
+  </td>
+</tr>
   <!-- BFN Policy-->
   <tr>
     <td class="pub-media" valign="top">
