@@ -297,6 +297,7 @@ Publications and Preprints
       <b>BFN Policy: Visuomotor Policy Learning for Hybrid Action Spaces via Bayesian Flow Networks</b><br>
       <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara<sup>*</sup>, Abha Jha<sup>*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik<br>
       <i>Under review. Also at <a href="https://actiongapworkshop.github.io/">CoRL 2026 G2A Workshop</a>.</i>
+      <a href="https://anonymousproj-dot.github.io/BFN-Policy">Project Website</a>
     </td>
   </tr>
   <!-- ORIC -->
@@ -337,7 +338,7 @@ Reviewer
 - AAAI Workshop: Large Language Models and Generative AI for Health (2026)
 
 Workshop Organizer
-- The 1st Workshop on Social Embodied AI (SEAI), in conjunction with WACV 2027
+- The 1st Workshop on Social Embodied AI (SEAI), in conjunction with WACV 2027 <a href="https://wacv27seai.synoring.ai/">Workshop Website</a>
 
 Teaching
 ======
