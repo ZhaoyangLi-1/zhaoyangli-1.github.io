@@ -338,7 +338,7 @@ Reviewer
 - AAAI Workshop: Large Language Models and Generative AI for Health (2026)
 
 Workshop Organizer
-- The 1st Workshop on Social Embodied AI (SEAI), in conjunction with WACV 2027 <a href="https://wacv27seai.synoring.ai/">Workshop Website</a>
+- <a href="https://wacv27seai.synoring.ai/">The 1st Workshop on Social Embodied AI (SEAI)</a>, in conjunction with WACV 2027
 
 Teaching
 ======
