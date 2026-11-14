@@ -285,6 +285,22 @@ Publications and Preprints
     <span style="color: #999;">Paper (coming soon) | Code (coming soon)</span>
   </td>
 </tr>
+
+<tr>
+    <td class="pub-media" valign="top">
+      <video autoplay loop muted playsinline>
+        <source src="files/hf-real-indoor-v2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td valign="top">
+      <b>Closed-Loop Customizable Human Following via Distilling Distance-Ordered Constrained Policies</b><br>
+      Litian Gong, Shiting Gong, Jianpeng Yao, Hefeifei Jiang, Huaide Jiang, Jinfeng Wang, Zheyu Lin, <b>Zhaoyang Li</b>, Yang Zhou, Ye Zhao, Mingyu Ding, Jiachen Li<br>
+      <b>Zhaoyang Li<sup>*</sup></b>, Aleyna Kara<sup>*</sup>, Abha Jha<sup>*</sup>, Bo-Ruei Huang, Majid Khadiv, Erdem Biyik
+      <i>Under review.</i>
+    </td>
+  </tr>
+  
   <!-- BFN Policy-->
   <tr>
     <td class="pub-media" valign="top">
