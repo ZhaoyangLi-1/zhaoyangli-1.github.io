@@ -349,7 +349,8 @@ Professional Service
 ======
 
 Reviewer
-- AAAI Conference on Artificial Intelligence (2026, 2027)
+- AAAI (2026, 2027)
+- CVPR (2027)
 - AAAI Workshop: Large Language Models and Generative AI for Health (2026)
 
 Workshop Organizer
