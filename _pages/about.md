@@ -217,7 +217,7 @@ Ultimately, I aim to build reliable, interpretable agents that generalize to rea
 🔍 <strong>I am actively looking for research internship opportunities for Summer 2027.</strong> Please feel free to reach out! My CV is available <a href="/files/Zhaoyang_Li_CV.pdf">here</a>.
 </p>
 
-Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu)
+Email: [zl1308@rutgers.edu](mailto:zl1308@rutgers.edu), [lijefrrey@gmail.com](mailto:lijefrrey@gmail.com)
 
 <!-- <p>
   <img src="images/logos.png"
